@@ -1,0 +1,21 @@
+/* this is the css for the image citations */
+h1
+{
+	text-align: center;
+	margin-top: 5%;
+	font-size: 50px;
+	font-family: Calibri;
+}
+
+#heading
+{
+	font-size: 35px;
+	color: #05055C;
+	font-family: Calibri;
+}
+
+li
+{
+	font-size: 20px;
+	font-family: Calibri;
+}
